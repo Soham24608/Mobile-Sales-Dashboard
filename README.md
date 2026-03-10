@@ -200,7 +200,7 @@ Key Transformation Steps
 📸 Dashboard Preview
   Main Dashboard
 
-
+    dashboard_preview.png
       
   MTD Report
 
