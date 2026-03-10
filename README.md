@@ -1,4 +1,4 @@
-📊 Mobile Sales Dashboard – Power BI Project
+**📊 Mobile Sales Dashboard – Power BI Project**
 📌 Project Overview
 
 The Mobile Sales Dashboard is an interactive Business Intelligence dashboard built using Power BI to analyze mobile phone sales performance across multiple dimensions such as time, location, brand, model, and payment methods.
@@ -35,37 +35,7 @@ Build an interactive Power BI dashboard for business insights
 
 Provide data-driven insights for decision-making
 
-🗂️ Repository Structure
-Mobile-Sales-Dashboard
-│
-├── Mobile Sales Dashboard.pbix     # Power BI project file
-├── Mobile Sales Data.xlsx          # Raw dataset
-├── dashboard_preview.png           # Main dashboard screenshot
-├── mtd_report.png                  # MTD report screenshot
-└── README.md                       # Project documentation
-📂 Dataset Information
-
-  The dataset contains mobile sales transactions with attributes such as:
-
-  Brand
-
-  Mobile Model
-
-  City
-
-  Quantity Sold
-
-  Price
-
-  Total Sales
-
-  Transaction Date
-
-  Payment Method
-
-  Customer Rating
-
-  The dataset was cleaned and transformed using Power Query Editor before building the dashboard.
+📂 Dataset 
 
 🔧 Data Preparation & Transformation
 
@@ -108,7 +78,7 @@ Key Transformation Steps
 
   Trend analysis
 
-📊 Dashboard Features
+**📊 Dashboard Features**
 1️⃣ Main Sales Dashboard
 
   The main dashboard provides an overview of mobile sales performance.
@@ -137,7 +107,7 @@ Key Transformation Steps
 
   Breakdown of product ratings into categories such as Good, Average, and Poor.
 
-💳 Transactions by Payment Method
+**💳 Transactions by Payment Method**
 
   Distribution of transactions across:
 
@@ -149,15 +119,15 @@ Key Transformation Steps
 
   Cash
 
-📱 Total Sales by Mobile Model
+**📱 Total Sales by Mobile Model**
 
   Comparison of sales performance between popular mobile models.
 
-📅 Total Sales by Day Name
+**📅 Total Sales by Day Name**
 
   Weekly sales performance analysis.
 
-📅 MTD (Month-To-Date) Report
+**📅 MTD (Month-To-Date) Report**
 
   The MTD Report provides time-based analysis to track sales performance throughout the selected month.
 
@@ -175,7 +145,7 @@ Key Transformation Steps
 
   Compare sales performance across different years
 
-🎛️ Interactive Filters (Slicers)
+**🎛️ Interactive Filters (Slicers)**
 
   The dashboard includes multiple interactive slicers:
 
@@ -191,24 +161,25 @@ Key Transformation Steps
 
   These filters allow users to explore the data dynamically and perform customized analysis.
 
-🛠️ Tools & Technologies Used
+**🛠️ Tools & Technologies Used**
   Tool	Purpose
   Power BI	Data visualization & dashboard development
   Power Query	Data cleaning and transformation
   DAX (Data Analysis Expressions)	Calculated measures and KPIs
   Excel	Raw dataset storage
   
-📸 Dashboard Preview
-  Main Dashboard
+**📸 Dashboard Preview**
+
+Main Dashboard
 ![Dashboard Preview](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/dashboard_preview.png)
-    
-  MTD Report
 
+MTD Report
+![MTD Report](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/mtd_report.png)
 
+Custom Calendar
+![Custom Calendar](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/[calendar_image_filename])    
 
-  Custom Calender    
-
-📈 Key Insights from the Dashboard
+**📈 Key Insights from the Dashboard**
 
   Certain cities contribute significantly more to total mobile sales.
 
