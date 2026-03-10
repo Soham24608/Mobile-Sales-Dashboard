@@ -175,6 +175,8 @@ Key Transformation Steps
 Main Dashboard
 ![Dashboard Preview](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/dashboard_preview.png)
 
+[📊 Download Power BI Dashboard (PBIX)](https://github.com/Soham24608/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Dashboard.pbix)
+
 **📈 Key Insights from the Dashboard**
 
   Certain cities contribute significantly more to total mobile sales.
