@@ -197,11 +197,12 @@ Key Transformation Steps
   Power Query	Data cleaning and transformation
   DAX (Data Analysis Expressions)	Calculated measures and KPIs
   Excel	Raw dataset storage
+  
 📸 Dashboard Preview
   Main Dashboard
 
-    ![image alt](https://github.com/Soham24608/Mobile-Sales-Dashboard/blob/93bc555587ce57b11420eff1c8112f854d4fad0e/dashboard_preview.png)
-      
+      ![Mobile Sales Dashboard](dashboard_preview.png)
+    
   MTD Report
 
 
