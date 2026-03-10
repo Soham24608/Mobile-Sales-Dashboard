@@ -200,7 +200,7 @@ Key Transformation Steps
 📸 Dashboard Preview
   Main Dashboard
 
-    dashboard_preview.png
+    ![image alt](https://github.com/Soham24608/Mobile-Sales-Dashboard/blob/93bc555587ce57b11420eff1c8112f854d4fad0e/dashboard_preview.png)
       
   MTD Report
 
