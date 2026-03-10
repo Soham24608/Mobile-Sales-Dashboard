@@ -37,6 +37,8 @@ Provide data-driven insights for decision-making
 
 📂 Dataset 
 
+[Download Mobile Sales Data](https://github.com/Soham24608/Mobile-Sales-Dashboard/raw/main/Mobile%20Sales%20Data.xlsx)
+
 🔧 Data Preparation & Transformation
 
 Data preprocessing was performed using Power Query to ensure accuracy and usability.
@@ -172,12 +174,6 @@ Key Transformation Steps
 
 Main Dashboard
 ![Dashboard Preview](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/dashboard_preview.png)
-
-MTD Report
-![MTD Report](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/mtd_report.png)
-
-Custom Calendar
-![Custom Calendar](https://raw.githubusercontent.com/Soham24608/Mobile-Sales-Dashboard/main/[calendar_image_filename])    
 
 **📈 Key Insights from the Dashboard**
 
